@@ -1,0 +1,5 @@
+127.0.0.1 - - [12/Aug/2021:18:01:46 +0530] "GET / HTTP/1.1" 404 1076
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:18:01:49 +0530] "GET /Registration/ HTTP/1.1" 200 485
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:18:01:51 +0530] "GET /favicon.ico HTTP/1.1" 404 1087
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:18:02:16 +0530] "POST /Registration/servlet/Register HTTP/1.1" 200 34
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:18:04:33 +0530] "POST /Registration/servlet/Register HTTP/1.1" 200 34
